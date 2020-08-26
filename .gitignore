@@ -1,0 +1,10 @@
+.DS*
+.editorconfig
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.m2e.core.prefs
+.classpath
+.factorypath
+.settings
+.dockerignore
+.gitkeep
