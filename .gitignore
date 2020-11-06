@@ -8,3 +8,14 @@
 .settings
 .dockerignore
 .gitkeep
+super-heroes/ui-super-heroes/node
+super-heroes/rest-villain/target
+super-heroes/rest-hero/target
+super-heroes/load-super-heroes/target
+super-heroes/rest-fight/.mvn
+super-heroes/load-super-heroes/.mvn
+super-heroes/rest-hero/.mvn
+super-heroes/rest-villain/.mvn
+super-heroes/ui-super-heroes/node_modules
+super-heroes/ui-super-heroes/dist
+super-heroes/ui-super-heroes/target
